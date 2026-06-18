@@ -1,0 +1,6 @@
+# Ignore loan approval dataset
+loan_approval_data.xls
+
+# Optional: ignore all Excel files
+*.xls
+*.xlsx
